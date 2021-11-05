@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Simran Sahni 👋 </h1>
+<h1 align="center">Hey there! I'm Simran Sahni 👩‍💼 </h1>
 <h3 align="center">🚀 Final Year Undergrad | Software Developer | Competitive Programmer 🚀</h3>
 <div>
 <img width = "35%" align="right" alt="gif" height="300px" src="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664.gif" />
@@ -6,11 +6,11 @@
   <h3> 👨🏻‍💻 About Me </h3>
 
   
-  - 🎓 &nbsp; Studying Computer Science and Engineering & Physics at BITS Pilani, Hyderabad
+  - 🎓 &nbsp; Studying Computer Science Engineering & Physics at BITS Pilani, Hyderabad
   - 💼 &nbsp; I’m currently working on Full Stack Development projects, using MERN.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
   - ✍️ &nbsp; Pursuing playing music & art as side hobby. Drop in for a chat anytime on art, history, movies...
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+  - 💪 &nbsp; Exploring new technologies / side projects / reading DAN Brown / Learning to play Ukulele these days 😃
 </div> 
 </div>
 
