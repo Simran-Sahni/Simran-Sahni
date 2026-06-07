@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Simran Sahni 👩‍💼 </h1>
-<h3 align="center">🚀 Software Developer @ Amazon India | Interested in System Design & Problem Solving 🚀</h3>
+<h3 align="center">🚀 Software Development Engineer 2 @ Amazon India | Interested in System Design & Problem Solving 🚀</h3>
 <div>
 <img width = "35%" align="right" alt="gif" height="300px" src="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664.gif" />
 <div align="left"> 
